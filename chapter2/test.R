@@ -1,4 +1,3 @@
-### R code from vignette source '1-R.Rnw'
 
 ###################################################
 ### code chunk number 1: 1-R.Rnw:19-20
